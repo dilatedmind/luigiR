@@ -19,3 +19,25 @@ C:\Users\slofurno\Documents\Visual Studio 2012\Projects\daggersRage\luigiR\bin\N
 C:\Users\slofurno\Documents\Visual Studio 2012\Projects\daggersRage\luigiR\obj\Debug\luigiR.csprojResolveAssemblyReference.cache
 C:\Users\slofurno\Documents\Visual Studio 2012\Projects\daggersRage\luigiR\obj\Debug\daggersRage.dll
 C:\Users\slofurno\Documents\Visual Studio 2012\Projects\daggersRage\luigiR\obj\Debug\daggersRage.pdb
+C:\Steve\luigiR\luigiR\bin\dagger.js
+C:\Steve\luigiR\luigiR\bin\Scripts\dagger.js
+C:\Steve\luigiR\luigiR\bin\daggersRage.dll.config
+C:\Steve\luigiR\luigiR\bin\daggersRage.dll
+C:\Steve\luigiR\luigiR\bin\daggersRage.pdb
+C:\Steve\luigiR\luigiR\bin\Glimpse.AspNet.dll
+C:\Steve\luigiR\luigiR\bin\Glimpse.Core.dll
+C:\Steve\luigiR\luigiR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Steve\luigiR\luigiR\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Steve\luigiR\luigiR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Steve\luigiR\luigiR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Steve\luigiR\luigiR\bin\Microsoft.Web.Infrastructure.dll
+C:\Steve\luigiR\luigiR\bin\Newtonsoft.Json.dll
+C:\Steve\luigiR\luigiR\bin\Owin.dll
+C:\Steve\luigiR\luigiR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Steve\luigiR\luigiR\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Steve\luigiR\luigiR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Steve\luigiR\luigiR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Steve\luigiR\luigiR\bin\Newtonsoft.Json.xml
+C:\Steve\luigiR\luigiR\obj\Debug\luigiR.csprojResolveAssemblyReference.cache
+C:\Steve\luigiR\luigiR\obj\Debug\daggersRage.dll
+C:\Steve\luigiR\luigiR\obj\Debug\daggersRage.pdb
